@@ -1,1 +1,1 @@
-yum -y install
+yum -y install ansible

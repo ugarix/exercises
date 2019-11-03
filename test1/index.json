@@ -11,12 +11,12 @@
       },
       {
         "title": "Step 2",
-        "courseData": "step2-background.sh",
         "text": "step2.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "step2-background.sh",
     },
     "finish": {
       "text": "finish.md"

@@ -15,7 +15,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "step2-background.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -30,6 +31,6 @@
     "uieditorpath": "/home/scrapbook/tutorial"
   },
   "backend": {
-    "imageid": "ansible-centos"
+    "imageid": "centos"
   }
 }

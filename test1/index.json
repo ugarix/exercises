@@ -23,7 +23,7 @@
     }
   },
       "files": [
-        "app.js", "index.js"
+        "playbook.yml", "hosts"
     ],
   "environment": {
     "uilayout": "editor-terminal",

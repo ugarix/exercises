@@ -22,6 +22,9 @@
       "text": "finish.md"
     }
   },
+      "files": [
+        "app.js", "index.js"
+    ],
   "environment": {
     "uilayout": "editor-terminal"
   },

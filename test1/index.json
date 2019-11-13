@@ -27,6 +27,8 @@
     ],
   "environment": {
     "uilayout": "editor-terminal"
+            "uisettings": "javascript",
+        "uieditorpath": "/home/scrapbook/tutorial/example"
   },
   "backend": {
     "imageid": "centos"

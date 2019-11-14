@@ -16,7 +16,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "code": "step2-background.sh"
+      "code": "step2-background.sh",
+      continue: "Continue"
     },
     "finish": {
       "text": "finish.md"

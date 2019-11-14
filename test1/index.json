@@ -2,6 +2,7 @@
   "title": "firstscenario",
   "description": "deneme amacli",
   "difficulty": "Beginner",
+  "continue": "Continue1",
   "time": "3",
   "details": {
     "steps": [
@@ -16,8 +17,7 @@
     ],
     "intro": {
       "text": "intro.md",
-      "code": "step2-background.sh",
-      "continue": "Continue1"
+      "code": "step2-background.sh"
     },
     "finish": {
       "text": "finish.md"

@@ -29,7 +29,8 @@
     "uilayout": "editor-terminal",
     "uisettings": "yaml",
     "uieditorpath": "/home/scrapbook/tutorial",
-    "hidefinish": true
+    "hidefinish": true,
+    "showdashboard": false
   },
   "backend": {
     "imageid": "centos"

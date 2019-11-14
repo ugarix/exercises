@@ -27,7 +27,7 @@
     ],
   "environment": {
     "uilayout": "editor-terminal",
-    "uisettings": "javascript",
+    "uisettings": "yaml",
     "uieditorpath": "/home/scrapbook/tutorial"
   },
   "backend": {
